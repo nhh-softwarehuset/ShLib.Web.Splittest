@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Softwarehuset.Web.SplitTest.BlobStorageProvider</id>
+    <version>1.0.2</version>
+    <title>ShLib.Web.SplitTest.BlobStorageProvider </title>
+    <authors>NicolajHelmer</authors>
+    <owners>Softwarehuset IVS</owners>
+    <description>
+      Derived from a great project called Fairly Certain. Developed to be wide avaiable and easy to use through Nuget. Supports Multiple Goals for better usability/conversion testing.
+    </description>
+    <releaseNotes>
+      Supporting Multiple PathProviders, Added Multiple goal support
+    </releaseNotes>
+    <summary>
+      Derived from a great project called Fairly Certain. Developed to be wide avaiable and easy to use through Nuget. Supports Multiple Goals for better usability/conversion testing.
+    </summary>
+    <language>en-US</language>
+    <projectUrl>https://github.com/nhh-softwarehuset/Web.Splittest</projectUrl>
+    <iconUrl>https://nuget.org/Content/Images/packageDefaultIcon-50x50.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <licenseUrl>http://opensource.org/licenses/MIT</licenseUrl>
+    <copyright>Copyright  2015 © Softwarehuset</copyright>
+    <dependencies>
+        <!--<group targetframework="net40">
+          <dependency id="WindowsAzure.Storage" version="4.3.0" />
+        </group>-->
+    </dependencies>
+    <references></references>
+    <tags></tags>
+  </metadata>
+  <files>
+    <file src="..\SHLib.WEb.SplitTest.BlobStorageProvider\bin\Release\SHLib.WEb.SplitTest.BlobStorageProvider.dll" target="lib" />
+  </files>
+</package>
