@@ -57,6 +57,7 @@
     <Compile Include="Experiment.cs" />
     <Compile Include="FileProvider\IPathProvider.cs" />
     <Compile Include="FileProvider\ServerPathProvider.cs" />
+    <Compile Include="SplitTestContainer.cs" />
     <Compile Include="SplitTester.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="SerializableDictionary.cs" />
